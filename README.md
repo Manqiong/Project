@@ -1,4 +1,4 @@
-# Project
+# SCS_3253_029 Machine Learning - Final Project
 Book_Recommondation_Engine_for_New_Customer
 
 
